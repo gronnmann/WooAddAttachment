@@ -1,0 +1,53 @@
+/**
+ * WooCommerce Add Attachment admin styles
+ */
+
+.waa-settings {
+    max-width: 800px;
+}
+
+.waa-attachments-section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.waa-attachment-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #f9f9f9;
+    border: 1px solid #e5e5e5;
+}
+
+.waa-attachment-title {
+    flex-grow: 1;
+    margin-right: 10px;
+    font-weight: 500;
+}
+
+.waa-view-link {
+    margin-right: 5px !important;
+}
+
+.waa-no-attachments {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.waa-email-types {
+    margin: 20px 0;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.waa-email-types ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
